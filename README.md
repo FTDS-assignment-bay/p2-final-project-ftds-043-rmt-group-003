@@ -151,10 +151,10 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 
 ## 👨‍💻 Contributors
 1. [Ach. Anwar Idam Fanani - Github](https://github.com/ifananwar)
-2. [Andro Kwok - Github](https://github.com/)
+2. [Andro Kwok - Github](https://github.com/Andro1406)
 3. [Fadhola Asandi Mardika Putra - Github](https://github.com/Fadhola)
 4. [Gilang Pramata Wardhana - GitHub](https://github.com/GilangPramata)
-4. [Riko Fadilah Alam - GitHub](https://github.com/)
+4. [Riko Fadilah Alam - GitHub](https://github.com/rfalam2211)
 
 ---
 
