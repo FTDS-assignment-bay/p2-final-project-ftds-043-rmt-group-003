@@ -124,7 +124,9 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 
 - **Python, Pandas,**
 - **LangChain** for RAG pipeline
-- **gemini-15-flash-latest, ** as base LLMs
+- **gemini-15-flash-latest**
+- **Deepseek-V3**
+- **Deepseek-R1**
 - **MongoDB Atlas Vector Search** as the NoSQL vector database
 - **Streamlit** for UI development
 - **Hugging Face** for web deployment hosting
@@ -135,9 +137,10 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 
 | Model     | Strengths                                              | Weaknesses                                                       |
 |-----------|--------------------------------------------------------|------------------------------------------------------------------|
-| Deepseek   | Lower Cost. Lighter Model, Good Accuracy |  Medium speed     |
+| Deepseek-V3   | Lower Cost. Lighter Model, Medium Accuracy |  Fast speed     |
+| Deepseek-R1   |  Good Accuracy |  Low speed, Weight Model    |
 | Gemini    | High Speed responses. Lower Cost. Lighter model.  | Slightly Lower Accuracy than Pro version.                   |
-| 
+
 
 
 ---
