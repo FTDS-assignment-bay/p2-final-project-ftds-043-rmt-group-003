@@ -87,11 +87,13 @@ Cleaning + Labeling + Mergering
     ↓
 Dataset Finalisasi
     ↓
-Database
+Database MongoDB
     ↓
 EDA & Visualisasi
     ↓
 Modeling NLP 
+    ↓
+Model Evaluation
     ↓
 Deploy (Streamlit/Huggingface)
 ```
@@ -133,7 +135,7 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 
 | Model     | Strengths                                              | Weaknesses                                                       |
 |-----------|--------------------------------------------------------|------------------------------------------------------------------|
-| Deepseek   | ... |  ...      |
+| Deepseek   | Lower Cost. Lighter Model, Good Accuracy |  Medium speed     |
 | Gemini    | High Speed responses. Lower Cost. Lighter model.  | Slightly Lower Accuracy than Pro version.                   |
 | 
 
@@ -143,7 +145,7 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 ## 📘 Slide Presentation
 
 <p align="center">
-  <a href="https://docs.google.com/presentation/d/YOUR_PRESENTATION_LINK">
+  <a href="https://docs.google.com/presentation/d/11rrHIzQ6qqF1QIHMiuL6ctJ3hdtoi2ARr1SD6O8K4OE/edit?slide=id.g37057aa0036_8_27#slide=id.g37057aa0036_8_27">
     <img src="https://images.fonearena.com/blog/wp-content/uploads/2018/10/Google-Slides-e1539062763406.jpg" alt="Google Slides" width="70" height="70">
   </a>
 </p>
