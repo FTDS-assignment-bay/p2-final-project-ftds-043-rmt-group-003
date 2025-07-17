@@ -122,7 +122,7 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 
 - **Python, Pandas,**
 - **LangChain** for RAG pipeline
-- **OpenAI GPT-3.5 and GPT-4** as base LLMs
+- **gemini-15-flash-latest, ** as base LLMs
 - **MongoDB Atlas Vector Search** as the NoSQL vector database
 - **Streamlit** for UI development
 - **Hugging Face** for web deployment hosting
@@ -134,7 +134,8 @@ Contoh visualisasi yang dilakukan untuk memahami distribusi karakter (question &
 | Model     | Strengths                                              | Weaknesses                                                       |
 |-----------|--------------------------------------------------------|------------------------------------------------------------------|
 | Deepseek   | ... |  ...      |
-| GPT-4     | ... | ...                   |
+| Gemini    | High Speed responses. Lower Cost. Lighter model.  | Slightly Lower Accuracy than Pro version.                   |
+| 
 
 
 ---
