@@ -41,7 +41,7 @@ def init_mongodb():
     try:
         client = MongoClient(MONGODB_URI)
         client.server_info()
-        return client['finalproject_db']['faq']
+        return client['finalproject_db']['faq_tb']
     except Exception as e:
         st.error(f"⚠️ Gagal terhubung ke database: {str(e)}")
         st.stop()
